@@ -1,4 +1,4 @@
-# Based-on-Deep-Learning-Online-Real-Time
+# Based on Deep Learning Online Real Time Mask Detection
 ## 動機
 在疫情的肆虐下，戴上口罩變得格外的重要，不但可以保護自己，同時也是保
 護他人的一種行為，而在人流眾多的公共區域，如果只是透過人工的方式去檢查出
